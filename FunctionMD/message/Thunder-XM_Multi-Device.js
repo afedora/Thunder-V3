@@ -2818,22 +2818,22 @@ if (q.includes('--help')) return reply(examkosong)
    let buttonss = [{
      index: 1, 
       urlButton: {
-       displayText: 'FBGROUP', 
-       url: 'https://www.facebook.com/groups/1439760243032782/',
+       displayText: 'GAMETORA UMAMUSUME', 
+       url: 'https://gametora.com/umamusume',
        } 
      },     
      {
       index: 1, 
        urlButton: {
-       displayText: 'OWNER', 
+       displayText: 'OWNERBOT', 
        url: 'https://www.facebook.com/ryanxmaster',
        }
        }, 
        {
        index: 1, 
        urlButton: {
-       displayText: 'RULES', 
-       url: 'https://www.facebook.com/groups/1439760243032782/permalink/1460557670953039/',
+       displayText: 'GAMEWITH UMAMUSUME', 
+       url: 'https://gamewith.jp/uma-musume/',
        }
        }, 
        {
